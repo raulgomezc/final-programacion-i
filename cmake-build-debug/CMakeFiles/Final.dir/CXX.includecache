@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raulgomez/CLionProjects/Final/Employees/Delivery.cpp
+Delivery.h
+/Users/raulgomez/CLionProjects/Final/Employees/Delivery.h
+
+/Users/raulgomez/CLionProjects/Final/Employees/Delivery.h
+Employee.h
+/Users/raulgomez/CLionProjects/Final/Employees/Employee.h
+
+/Users/raulgomez/CLionProjects/Final/Employees/Employee.h
+iostream
+-
+
+/Users/raulgomez/CLionProjects/Final/Employees/Seller.h
+Employee.h
+/Users/raulgomez/CLionProjects/Final/Employees/Employee.h
+
+/Users/raulgomez/CLionProjects/Final/main.cpp
+iostream
+-
+Employees/Delivery.h
+/Users/raulgomez/CLionProjects/Final/Employees/Delivery.h
+Employees/Seller.h
+/Users/raulgomez/CLionProjects/Final/Employees/Seller.h
+
